@@ -4,7 +4,7 @@ import {
   Menu, Plus, Search, Edit3, Save, X, Box, DollarSign, CheckCircle2, XCircle,
   RefreshCw
 } from "lucide-react";
-import "./producto.css";
+import "./Producto.css";
 
 // Icono de estatus
 const EstatusIcon = ({ estatus }) =>
