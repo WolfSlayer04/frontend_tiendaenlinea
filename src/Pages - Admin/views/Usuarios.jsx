@@ -4,7 +4,7 @@ import {
   Menu, Mail, Shield, Trash2, UserPlus,
   RefreshCw, Search
 } from "lucide-react";
-import "./usuarios.css";
+import "./Usuarios.css";
 
 // Componente logo de iniciales
 function InitialsLogo({ nombre }) {
